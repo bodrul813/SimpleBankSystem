@@ -1,6 +1,6 @@
 
-# 💳 SimpleBankSystem
-A beginner-friendly, console-based **Bank Management System** built using C# and .NET. The project simulates essential banking operations such as account creation, deposit, withdrawal, and balance inquiry.
+# 💳 Bank-Management-System
+A beginner-friendly, console-based **Bank Management System** built using C# and .NET. The project simulates essential banking operations, including account creation, deposit, withdrawal, and balance inquiry.
 
 **SimpleBankSystem** is a basic simulation of how real-world banking systems work. It is designed to help new programmers understand the structure of object-oriented programs, how business logic can be separated using services, and how to handle user interaction using the console.
 
@@ -12,7 +12,7 @@ A beginner-friendly, console-based **Bank Management System** built using C# and
 * 🔐 Secure login using username and PIN
 * 💵 Deposit and withdraw money with transaction logging
 * 📊 View current balance
-* 📁 View transaction history (within session)
+* 📁 View transaction history (within a session)
 * ❌ Input validation and error messages for incorrect operations
 
 ---
@@ -21,7 +21,7 @@ A beginner-friendly, console-based **Bank Management System** built using C# and
 
 * **Educational Purpose**: Ideal for learning C# basics, OOP, and console interaction
 * **Mini Project**: Suitable for university/college assignment submissions
-* **Interview Preparation**: Demonstrates logic building and structured thinking
+* **Interview Preparation**: Demonstrates logic-building and structured thinking
 * **Portfolio Project**: A good beginner-level .NET project to showcase on GitHub
 
 ---
